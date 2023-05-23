@@ -13,6 +13,8 @@
 
 </p>
 
+fork:https://github.com/waimifeier/hikvision-spring-boot-starter
+
 # 项目介绍
 
 基于海康威视网络摄像机和NVR录像机的SDK二次开发, 为解决web-sdk播放控件兼容性不友好(只能在低版本浏览器下才能播放)，rtsp回放延迟问题(8s以上延迟)，和多端设备播放兼容等问题。 主要实现了sdk实时预览、回放、抓图等功能, rtsp推流 （无需nginx推流即可播放）
